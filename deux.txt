@@ -1,1 +1,1 @@
-bonjour test 2 
+bonjour test 2 pour tester l'automatisation 
